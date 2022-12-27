@@ -1,0 +1,3 @@
+0 8 * * 1-5 /Users/jack/Documents/src/ijackwilson/cron/soundon.sh
+0 18 * * 1-5 /Users/jack/Documents/src/ijackwilson/cron/soundoff.sh
+0 18 * * 1 /Users/jack/Documents/src/ijackwilson/cron/killzoom.sh
